@@ -1,8 +1,9 @@
----
-manufacturer:
-    - tecno
+object free fire 
+manufacturer:I'd hack in free fire 
+uid88400181 
+is ka I'd password 
+---for command
 
----
 
 ## Power Saving Management
 
