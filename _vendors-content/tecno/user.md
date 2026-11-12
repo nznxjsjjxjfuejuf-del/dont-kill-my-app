@@ -1,6 +1,6 @@
----
+free fire---uid10100113550
 manufacturer:
-    - tecno
+panel into location   - tecno
 
 ---
 
